@@ -1,4 +1,4 @@
-# schizophrenia Research Data
+# Schizophrenia research Data
 
 * Prodromal schizophrenia: Various mood changes such as anxiety, depression, mood swings, sleep disturbances, irritability, anger, and suicidal ideas are reported as part of prodromal symptoms. 
 
